@@ -1,3 +1,5 @@
+![animated beach](/readme.gif)
+
 
 ---
 
