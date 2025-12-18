@@ -4,7 +4,7 @@
 ---
 
 
-###### blog 🌸 digi-garden.dana.nyc
+###### blog 🌸 danablog.dev
 
 
 ###### website 🌸 dana.nyc
